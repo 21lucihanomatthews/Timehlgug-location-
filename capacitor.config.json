@@ -1,0 +1,6 @@
+{
+  "appId": "com.timegig.app",
+  "appName": "TimeGiG",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
